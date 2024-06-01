@@ -1,18 +1,31 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# AVL Tree Implementation in Java
+This repository contains a simple implementation of an AVL Tree in Java, focusing specifically on left-right rotations to maintain tree balance. AVL Trees are self-balancing binary search trees where the height difference between left and right subtrees is at most one for any node.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Features
+Node Insertion: Insert nodes into the AVL tree while maintaining its balanced property.
+Tree Rotations: Perform left-right rotations to rebalance the tree when necessary.
+In-order Traversal: Traverse the tree in in-order sequence to display the nodes.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Deployment
+
+To deploy this project run
+
+Java Development Kit (JDK) installed on your machine.
+
+# Running the Code
+Clone the Repository:git clone https://github.com/Keshav-chand/AVLleftright.git
+cd AVLleftright
+
+
+Compile the Code: javac avlleftright.java
+
+Run the Program: java avlleftright
+    
+```
+
