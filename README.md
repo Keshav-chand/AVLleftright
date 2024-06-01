@@ -5,7 +5,6 @@ This repository contains a simple implementation of an AVL Tree in Java, focusin
 
 
 
-
 ## Features
 Node Insertion: Insert nodes into the AVL tree while maintaining its balanced property.
 Tree Rotations: Perform left-right rotations to rebalance the tree when necessary.
@@ -13,8 +12,6 @@ In-order Traversal: Traverse the tree in in-order sequence to display the nodes.
 
 
 ## Deployment
-
-To deploy this project run
 
 Java Development Kit (JDK) installed on your machine.
 
