@@ -21,7 +21,7 @@ cd AVLleftright
 
 Compile the Code: javac avlleftright.java
 
-Run the Program: java avlleftright
+Run the Program: java avlleftright.
     
 # Contributing
 
