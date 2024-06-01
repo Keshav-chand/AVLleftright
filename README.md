@@ -19,10 +19,15 @@ Java Development Kit (JDK) installed on your machine.
 Clone the Repository:git clone https://github.com/Keshav-chand/AVLleftright.git
 cd AVLleftright
 
-
 Compile the Code: javac avlleftright.java
 
 Run the Program: java avlleftright
     
-```
+# Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
 
